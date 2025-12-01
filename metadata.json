@@ -1,0 +1,5 @@
+{
+  "name": "TTRPG Char Generator",
+  "description": "Upload a character sketch and generate tabletop variations using Gemini 3 Pro. Describe your desired adjustments and watch your character transform.",
+  "requestFramePermissions": []
+}
